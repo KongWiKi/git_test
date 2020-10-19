@@ -7,6 +7,11 @@ public class a {
         }
     }
 
+    public boolean isEven(){
+        gen(8);
+        // do something
+    }
+
     public static void main(String[] args) {
     }
 }
