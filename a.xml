@@ -1,4 +1,12 @@
 this is first commit 
 
+<<<<<<< HEAD
 this is second commit , emmm if a = 89757:
 	I'll console 89757;
+=======
+this is second commit , emmm if a = 2:
+	I'll console 2;
+
+else if a = 3:
+	console 3;
+>>>>>>> 073f5b5... update a.xml II
