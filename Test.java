@@ -17,6 +17,8 @@ public class Test {
         System.out.println("aaa");
         // 2
         System.out.println("bbb");
+        // 3
+        System.out.println("ccc");
 
     }
 }
