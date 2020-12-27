@@ -15,6 +15,8 @@ public class Test {
     public void hello () {
         // 1
         System.out.println("aaa");
+        // 2
+        System.out.println("bbb");
 
     }
 }
