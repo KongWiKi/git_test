@@ -24,5 +24,6 @@ public class Test {
     public void own() {
         // own func
         // own func
+        // own func
     }
 }
