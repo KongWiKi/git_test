@@ -21,4 +21,7 @@ public class Test {
         System.out.println("ccc");
 
     }
+    public void another() {
+       // another func
+    }
 }
